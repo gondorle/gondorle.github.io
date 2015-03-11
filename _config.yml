@@ -1,14 +1,13 @@
 # Site settings
-title: material
-email: naveen@pixelblenders.com
+title: Crowsmos
+email: gondorle@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Hello, I'm Naveen, a freelance front-end developer
-  and UI designer. Check out my projects on GitHub
+  Blog
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://naveenshaji.github.io" # the base hostname & protocol for your site
-twitter_username: navvenshady
-github_username:  naveenshaji
-css: "cyan"
+url: "http://www.braincrow.com" # the base hostname & protocol for your site
+twitter_username: gondorle
+github_username:  gondorle
+css: "black"
 scroll-cursor: "#131313"
 scroll-rail: "#131313"
 

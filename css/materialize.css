@@ -4990,7 +4990,7 @@ nav {
     position: relative;
     height: 100%; }
   nav a {
-    color: #fff; }
+    color: #131313; }
   nav a.button-collapse {
     float: left;
     position: relative;
@@ -5030,7 +5030,7 @@ nav {
         background-color: rgba(0, 0, 0, 0.1); }
     nav ul a {
       font-size: 1rem;
-      color: #fff;
+      color: #131313;
       display: block;
       padding: 0px 15px; }
     nav ul.left {
@@ -5328,7 +5328,7 @@ small {
   border-radius: 2px;
   background-clip: padding-box; }
   .card .card-title {
-    color: #fff;
+    color: #131313;
     font-size: 24px;
     font-weight: 300; }
     .card .card-title.activator {

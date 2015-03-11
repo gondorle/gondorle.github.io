@@ -5,7 +5,9 @@ date: 2015-02-13 23:08:00
 ---
 #INTRODUÇÃO
 
-![Collision](http://www.hdwallpapersinn.com/wp-content/uploads/2014/12/Black-Globe-Sinking-in-Water.jpg)
+
+
+<img src="http://www.hdwallpapersinn.com/wp-content/uploads/2014/12/Black-Globe-Sinking-in-Water.jpg" width="200px" height="200px" />
 
 Há algum tempo que não escrevo uma entrada neste blog. Faço-o agora pois sinto-me perturbado. Nunca tinha enveredado antes por caminhos tão escuros e passo a explicar:
 

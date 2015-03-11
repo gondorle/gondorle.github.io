@@ -1730,7 +1730,7 @@ h1 {
  */
 mark {
   background: #ff0;
-  color: #000; }
+  color: #131313; }
 
 /**
  * Address inconsistent and variable font size in all browsers.
@@ -1910,7 +1910,7 @@ input[type="search"]::-webkit-search-cancel-button, input[type="search"]::-webki
  * Define consistent border, margin, and padding.
  */
 fieldset {
-  border: 1px solid #c0c0c0;
+  border: 1px solid #131313;
   margin: 0 2px;
   padding: 0.35em 0.625em 0.75em; }
 
@@ -2200,18 +2200,18 @@ td, th {
 .collection {
   background-color: #fff;
   margin: 0.5rem 0 1rem 0;
-  border: 1px solid #e0e0e0;
+  border: 1px solid #131313;
   border-radius: 2px; }
   .collection .collection-item {
     line-height: 1.5rem;
     padding: 10px 20px;
     margin: 0px;
-    border-bottom: 1px solid #e0e0e0; }
+    border-bottom: 1px solid #131313; }
     .collection .collection-item:last-child {
       border-bottom: none; }
     .collection .collection-item.active {
       background-color: #26a69a;
-      color: #eafaf9; }
+      color: #131313; }
   .collection a.collection-item {
     display: block;
     -webkit-transition: 0.25s;
@@ -2249,7 +2249,7 @@ td, th {
 
 .secondary-content {
   float: right;
-  color: #26a69a; }
+  color: #131313; }
 
 span.badge {
   min-width: 3rem;
@@ -2257,7 +2257,7 @@ span.badge {
   text-align: center;
   font-size: 1rem;
   line-height: inherit;
-  color: #757575;
+  color: #131313;
   float: right;
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
@@ -4981,8 +4981,8 @@ span.badge {
  }
 
 nav {
-  color: #fff;
-  background-color: #ee6e73;
+  color: #131313;
+  background-color: #fff;
   width: 100%;
   height: 56px;
   line-height: 56px; }
@@ -5002,7 +5002,7 @@ nav {
       line-height: 56px; }
   nav .brand-logo {
     position: absolute;
-    color: #fff;
+    color: #131313;
     display: inline-block;
     font-size: 2.1rem;
     padding: 0; }

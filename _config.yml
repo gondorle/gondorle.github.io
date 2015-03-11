@@ -9,8 +9,8 @@ url: "http://naveenshaji.github.io" # the base hostname & protocol for your site
 twitter_username: navvenshady
 github_username:  naveenshaji
 css: "cyan"
-scroll-cursor: "#00BCD4"
-scroll-rail: "#0097A7"
+scroll-cursor: "#131313"
+scroll-rail: "#131313"
 
 # Build settings
 markdown: kramdown

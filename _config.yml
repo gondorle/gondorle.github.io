@@ -7,7 +7,7 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://www.braincrow.com" # the base hostname & protocol for your site
 twitter_username: gondorle
 github_username:  gondorle
-css: "teal"
+css: "black"
 scroll-cursor: "#131313"
 scroll-rail: "#131313"
 

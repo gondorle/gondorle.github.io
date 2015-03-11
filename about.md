@@ -4,8 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam vel purus sagittis, eleifend ante quis, tempus lectus. Vivamus maximus nibh lectus, sed gravida sapien imperdiet in. Curabitur non purus rutrum, iaculis mauris ac, placerat turpis. Donec vel semper enim, ut ultrices sem. Fusce rutrum, justo id porta malesuada, purus erat gravida metus, sit amet viverra turpis lacus nec mi. Aliquam et mi vel ipsum mollis aliquam eu eget augue. Morbi congue eros id nisl sagittis accumsan. Nam nec odio dolor.
+As you may have noticed already, Crowsmos is a place of science. I will most likely try and bash any and all religions, without caring for susceptibilities, so consider yourself warned after reading this.
 
-Integer accumsan, turpis a egestas malesuada, lorem ex blandit nulla, in condimentum lectus quam et dolor. Ut dapibus, sem et efficitur efficitur, urna turpis dictum tellus, non lacinia leo sem sit amet leo. Phasellus tortor dui, consectetur sed felis in, dapibus tincidunt nisi. Nam faucibus, dolor nec ultricies euismod, risus magna condimentum elit, et dictum lorem nunc eu orci. Mauris efficitur sollicitudin mi, nec condimentum nunc euismod vel. Integer ac dictum elit. Vivamus in dui ac arcu laoreet dictum.
+I got the idea for Crowsmos after I completed my 9th physical diary. I thought I needed to share my knowledge with the world and the best way to do it was to start my own blog on the Internet.
 
-Curabitur congue aliquet nulla, ac hendrerit leo dictum in. Cras at tristique quam. Praesent euismod nec dui eu vulputate. Quisque sit amet gravida elit. Suspendisse euismod urna ut efficitur facilisis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent fringilla, ipsum tempor ullamcorper pellentesque, purus tellus convallis ex, quis viverra arcu metus at est. Aliquam erat volutpat. Suspendisse dictum, nunc in dictum ultrices, sapien arcu venenatis tortor, eget dictum nulla sem quis nibh. Nunc id malesuada odio. Sed in dolor accumsan, vehicula neque ut, pretium est. Cras feugiat nunc et neque sagittis, in aliquam velit mattis. Nulla in massa mi. In eget efficitur neque, sit amet porttitor diam. Integer sed posuere sapien.
+Sometimes you'll find yourself quite confused with my writing. Most of the entries are complete insane ramblings that won't make too much sense to someone who doesn't know me in real life.
+
+I'm not going to focus on a particular subject, for I'm curious about a lot of stuff. Some news may appear out of nowhere.
+
+I may eventually use articles written by others if I find them interesting enough, and will most of the time cite their sources, although I won't say where I got the text if I find it to be irrelevant. Knowledge is for everyone. Nothing's original anymore. 
